@@ -1,0 +1,8 @@
+.homeBtns {
+  display: flex;
+  flex-direction: column;
+}
+
+Button {
+  margin-bottom: 5px;
+}
